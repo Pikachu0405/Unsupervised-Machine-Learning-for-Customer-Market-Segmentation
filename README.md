@@ -28,7 +28,7 @@
 8. Apply Principal Component Analysis (PCA) technique to perform dimensionality reduction and data visualization
 
 
-Project Award/Accomplishment Certificate: [Unsupervised-Machine-Learning-for-Customer-Market-Segmentation.pdf](https://github.com/Pikachu0405/Unsupervised-Machine-Learning-for-Customer-Market-Segmentation/files/7634222/Unsupervised-Machine-Learning-for-Customer-Market-Segmentation.pdf)
+**Project Award/Accomplishment Certificate:** [Unsupervised-Machine-Learning-for-Customer-Market-Segmentation.pdf](https://github.com/Pikachu0405/Unsupervised-Machine-Learning-for-Customer-Market-Segmentation/files/7634222/Unsupervised-Machine-Learning-for-Customer-Market-Segmentation.pdf)
 
 
 ![image](https://user-images.githubusercontent.com/93926742/144243892-1eb10200-65cd-45b5-94b7-c9b68abd7a29.png)
